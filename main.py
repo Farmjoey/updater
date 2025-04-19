@@ -24,7 +24,7 @@ class ItemScheduler:
         self.root.resizable(True, True)
         
         # Define current application version
-        self.current_version = "1.0.0"
+        self.current_version = "3.1.1"
         self.update_url = "https://updaterbyfarmjoey123543234.glitch.me/update.json"
         
         self.bg_color = "#2c3e50"
