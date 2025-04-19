@@ -19,7 +19,7 @@ except ImportError:
 class ItemScheduler:
     def __init__(self, root):
         self.root = root
-        self.root.title("Item Scheduler")
+        self.root.title("Item Scheduler2")
         self.root.geometry("550x750") 
         self.root.resizable(True, True)
         
